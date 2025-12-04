@@ -14,8 +14,8 @@ Usuario: rafasos851_SQLLogin_1
 
 Contraseña: qzod52vnzw
 
-el proyecto de backend esta subido a otro hosting llamado MonsterASP.NET
-es el siguiente link
+el proyecto de backend esta subido a otro hosting llamado MonsterASP.NET y esta hecho con .NET core usando entity framework para la base de datos
+este es el link
 https://medigroup.runasp.net/api/medicamentos
 
 el controlador consta de 4 metodos 
